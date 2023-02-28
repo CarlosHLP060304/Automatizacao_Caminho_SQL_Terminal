@@ -1,0 +1,1 @@
+Criador_Arquivo_Automatizador.bat
